@@ -11,7 +11,7 @@ function NotesPanel(props) {
                         <table className='w100 lightdiv' >
                            <thead>
                            <tr className='main darkdiv bRd5'>
-                                <td colSpan="7" className='bRd5'>  <h1>Notes</h1></td>
+                                <td colSpan="7" className='bRd5'>  <h1>Users</h1></td>
                              </tr>
                             <tr className=''>
                                 <th>Id</th>
